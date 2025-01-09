@@ -22,7 +22,7 @@ This project implements a custom programming language compiler and interpreter s
 - Manages line numbers and error detection
 - Supports token stream peeking
 
-#### 2. Parser (project3.cc)
+#### 2. Parser (main.cc)
 - Implements recursive descent parsing
 - Generates intermediate representation
 - Handles variable declarations
